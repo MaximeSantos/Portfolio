@@ -1,3 +1,15 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+body {
+  @apply text-zinc-800 bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-100 font-mono;
+}
+
+h1 {
+  @apply font-bold text-2xl;
+}
+
+h2 {
+  @apply text-xl;
+}
