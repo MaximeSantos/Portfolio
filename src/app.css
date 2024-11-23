@@ -3,7 +3,7 @@
 @import 'tailwindcss/utilities';
 
 body {
-  @apply text-zinc-800 bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-100 font-mono;
+  @apply text-zinc-800 bg-zinc-200 dark:bg-zinc-900 dark:text-zinc-100 font-mono;
 }
 
 h1 {
