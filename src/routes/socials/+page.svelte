@@ -6,11 +6,14 @@
 
 <div class="flex flex-col items-center">
 	<p class="">
-		Github : <a href="https://github.com/MaximeSantos">&nbsp;github.com/MaximeSantos</a>
+		&nbsp; Github : <a class="italic hover:underline" href="https://github.com/MaximeSantos"
+			>github.com/MaximeSantos</a
+		>
 	</p>
 	<p class="">
-		Linkedin : <a href="www.linkedin.com/in/maxime-santos-dev"
-			>&nbsp;linkedin.com/in/maxime-santos-dev</a
+		&nbsp; Linkedin : <a
+			class="italic hover:underline"
+			href="https://www.linkedin.com/in/maxime-santos-dev">linkedin.com/in/maxime-santos-dev</a
 		>
 	</p>
 </div>

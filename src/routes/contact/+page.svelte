@@ -5,5 +5,7 @@
 </script>
 
 <p class="flex justify-center">
-	Email :&nbsp;<em class="text-slate-800 underline dark:text-slate-300">max.sant@outlook.fr</em>
+	Adresse mail :&nbsp;<em class="text-slate-800 underline dark:text-slate-300"
+		>max.sant@outlook.fr</em
+	>
 </p>
