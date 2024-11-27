@@ -5,7 +5,8 @@
 </script>
 
 <p class="flex justify-center">
-	Adresse mail :&nbsp;<em class="text-slate-800 underline dark:text-slate-300"
-		>max.sant@outlook.fr</em
+	Adresse mail :&nbsp;<a
+		class="italic text-slate-800 hover:underline dark:text-slate-300"
+		href="mailto:max.sant@outlook.fr">max.sant@outlook.fr</a
 	>
 </p>

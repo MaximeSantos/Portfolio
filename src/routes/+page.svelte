@@ -10,7 +10,8 @@
 
 <p class="m-4 flex justify-center">
 	<!-- I am looking forward to hearing from you !  -->
-	Si mon profil vous intéresse,&nbsp;<a class="italic hover:underline" href="/contact"
-		>envoyez-moi un mail</a
+	Si mon profil vous intéresse, et pour plus d'informations,&nbsp;<a
+		class="italic hover:underline"
+		href="/contact">contactez moi par mail</a
 	>&nbsp!
 </p>
