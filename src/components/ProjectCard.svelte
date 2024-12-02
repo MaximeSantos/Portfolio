@@ -9,9 +9,10 @@
 	const { link, title, desc, previewUrl }: Props = $props();
 </script>
 
-<section class="m-2 flex flex-col items-center">
-	<img src={previewUrl} alt="Preview of the project" />
-	<h2>{title}</h2>
-	<p>{desc}</p>
-	<a href={link}>{link}</a>
-</section>
+<a class="m-1 rounded-2xl hover:bg-zinc-800" href={link} target="_blank">
+	<section class="m-2 flex max-w-sm flex-col items-center">
+		<img class="rounded-2xl" src={previewUrl} alt="Preview of the project" />
+		<h2 class="uppercase">{title}</h2>
+		<p>{desc}</p>
+	</section>
+</a>
