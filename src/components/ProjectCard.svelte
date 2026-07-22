@@ -11,8 +11,8 @@
 
 <a class="m-6 mb-2 mt-0 rounded-2xl hover:bg-zinc-800" href={link} target="_blank">
 	<section class="m-4 flex max-w-sm flex-col items-center">
-		<img class="rounded-2xl" src={previewUrl} alt="Preview of the project" />
-		<h2 class="uppercase">{title}</h2>
+		<img class="mb-4 max-h-64 rounded-2xl" src={previewUrl} alt="Preview of the project" />
+		<h2 class="text-center uppercase">{title}</h2>
 		<p>{desc}</p>
 	</section>
 </a>
